@@ -24,24 +24,25 @@ Every problem here is:
 
 Each solution focuses on **why it works**, not just *what works*.
 
----
+
 
 ## 🗂️ Repository Structure
 
 
 DSA/
-├── Arrays/              # Array-based problems
-├── Strings/             # String manipulation problems
-├── TwoPointers/         # Two pointer technique
-├── BinarySearch/        # Binary search based problems
-├── DynamicProgramming/  # DP problems and patterns
-├── Greedy/              # Greedy algorithms
-├── Graphs/              # Graph algorithms
+├── Arrays/
+├── Strings/
+├── TwoPointers/
+├── BinarySearch/
+├── DynamicProgramming/
+├── Greedy/
+├── Graphs/
 └── README.md
 
 
 
----
+
+
 
 ## ✍️ How I Solve Problems
 
