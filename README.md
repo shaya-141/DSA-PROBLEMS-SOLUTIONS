@@ -26,18 +26,19 @@ Each solution focuses on **why it works**, not just *what works*.
 
 ---
 
-## 📂 Folder Structure
+## 🗂️ Repository Structure
+
 
 DSA/
-│
-├── Arrays/
-├── Strings/
-├── TwoPointers/
-├── BinarySearch/
-├── DynamicProgramming/
-├── Greedy/
-├── Graphs/
+├── Arrays/              # Array-based problems
+├── Strings/             # String manipulation problems
+├── TwoPointers/         # Two pointer technique
+├── BinarySearch/        # Binary search based problems
+├── DynamicProgramming/  # DP problems and patterns
+├── Greedy/              # Greedy algorithms
+├── Graphs/              # Graph algorithms
 └── README.md
+
 
 
 ---
