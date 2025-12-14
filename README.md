@@ -24,23 +24,23 @@ Every problem here is:
 
 Each solution focuses on **why it works**, not just *what works*.
 
-
+---
 
 ## 🗂️ Repository Structure
 
 
 DSA/
-├── Arrays/
-├── Strings/
-├── TwoPointers/
-├── BinarySearch/
-├── DynamicProgramming/
-├── Greedy/
-├── Graphs/
-└── README.md
+- ├── Arrays/
+- ├── Strings/
+- ├── TwoPointers/
+- ├── BinarySearch/
+- ├── DynamicProgramming/
+- ├── Greedy/
+- ├── Graphs/
+- └── README.md
 
 
-
+---
 
 
 
